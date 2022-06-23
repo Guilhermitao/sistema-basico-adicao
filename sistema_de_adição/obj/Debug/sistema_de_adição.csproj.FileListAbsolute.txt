@@ -1,0 +1,6 @@
+C:\Users\Tecnico\Desktop\sistema_de_adição\sistema_de_adição\bin\Debug\sistema_de_adição.exe.config
+C:\Users\Tecnico\Desktop\sistema_de_adição\sistema_de_adição\bin\Debug\sistema_de_adição.exe
+C:\Users\Tecnico\Desktop\sistema_de_adição\sistema_de_adição\bin\Debug\sistema_de_adição.pdb
+C:\Users\Tecnico\Desktop\sistema_de_adição\sistema_de_adição\obj\Debug\sistema_de_adição.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Desktop\sistema_de_adição\sistema_de_adição\obj\Debug\sistema_de_adição.exe
+C:\Users\Tecnico\Desktop\sistema_de_adição\sistema_de_adição\obj\Debug\sistema_de_adição.pdb
